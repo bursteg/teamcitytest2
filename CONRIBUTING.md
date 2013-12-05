@@ -1,4 +1,4 @@
-Contributing to Windows Azure 2
+Contributing to Windows Azure
 -----------------------------
 
 *Hello*

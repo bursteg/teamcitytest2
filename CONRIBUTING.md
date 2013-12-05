@@ -1,4 +1,4 @@
-Contributing to Windows Azur
+Contributing to Windows Azure in master
 -----------------------------
 
 *Hello*
